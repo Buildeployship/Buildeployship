@@ -10,7 +10,7 @@
 ## Tech Stack
 - Frontend: React, TypeScript, Next.js
 - Backend: Node.js, Python
-- AI/ML: OpenAI API, Hugging Face
+- AI/ML: TensorFlow, OpenAI API
 - Cloud: AWS, Docker
 
 ## Languages and Tools
