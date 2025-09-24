@@ -1,4 +1,4 @@
-# Jordan Taylor 👋
+# Jordan Taylor 🚀🏗
 
 **Full Stack AI Engineer** building secure and scalable AI applications on cloud infrastructure.
 
