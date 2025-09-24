@@ -13,6 +13,11 @@
 - AI/ML: OpenAI API, Hugging Face
 - Cloud: AWS, Docker
 
+## Languages and Tooling
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+</p>
+
 <!--
 ## Connect
 - LinkedIn: [your-profile]
