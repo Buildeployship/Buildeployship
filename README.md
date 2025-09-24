@@ -2,10 +2,18 @@
 
 **Full Stack AI Engineer** building secure and scalable AI applications on cloud infrastructure.
 
+## About
+Full Stack AI Engineer specializing in building secure and scalable AI applications on cloud infrastructure. I focus on creating production-ready AI systems that solve real-world problems through intelligent user interfaces and robust backend architectures.
+
+Currently developing AI chat streaming interfaces, multimodal AI applications, and context management systems that demonstrate the future of human-AI interaction. My approach combines modern full-stack development with AI integration and cloud-native deployment strategies.
+
+I believe in building from first principles - architecting systems that are not just functional, but secure, scalable, and user-focused. Every project is an opportunity to push the boundaries of what's possible when AI meets thoughtful engineering.
+
 ## Currently Working On
-- AI chat streaming interfaces
-- Multimodal AI applications  
-- AI context management systems
+- Real-time AI chat streaming interfaces with advanced UX
+- Multimodal AI applications handling text, image, and voice inputs
+- AI context management and memory systems
+- Cloud-native deployment and scaling strategies
 
 ## Tech Stack
 - Frontend: React, TypeScript, Next.js
@@ -47,22 +55,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
 </p>
-
-<!--
-## Connect
-- LinkedIn: [your-profile]
-- Email: [your-email]
-
-
-**Buildeployship/Buildeployship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
