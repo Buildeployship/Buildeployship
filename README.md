@@ -1,21 +1,21 @@
 # Jordan Taylor
 
-**Aspiring Full Stack Developer** building projects to develop skills in AI integration and web development.
+**Software Developer** building projects to develop skills in AI integration and web development.
 
 ## About
-I'm transitioning into software development with a focus on full stack applications. Currently building projects that combine modern web technologies with AI capabilities to demonstrate my growing technical skills.
+Currently building projects that combine modern web technologies with AI capabilities to demonstrate my growing technical skills.
 
 ## Currently Working On
 - **Multimodal AI Chat** - Building a chat application that handles text and image inputs using AI APIs
 
-## Tech Stack I'm Learning
+## Tech Stack
 - Frontend: React, TypeScript, Next.js
 - Backend: Node.js, Python, SQL
 - Database: PostgreSQL, Supabase
 - Tools: Git, VS Code
 
 ## Background
-BS in Web Design and Development. Experienced with HTML/CSS and learning modern JavaScript frameworks and backend development.
+BS in Web Design and Development.
 
 ## Languages and Tools
 <p align="left">
