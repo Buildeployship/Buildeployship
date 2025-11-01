@@ -30,7 +30,7 @@ I'm a full-stack developer specializing in building user-centered web applicatio
 
 ## 🚀 Featured Projects
 
-**[Portfolio Site](https://your-portfolio-url.com)** - Rails
+**[Ruby on Rails Portfolio]([https://your-portfolio-url.com](https://ruby-on-rails-buildeployship.onrender.com/))** - Rails
 Full-stack portfolio showcasing my work, built with Rails and Tailwind CSS.
 
 **AI Document Processor** *(In Progress)* - React + Rails
