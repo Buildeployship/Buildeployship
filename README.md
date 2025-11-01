@@ -1,26 +1,59 @@
-# Jordan Taylor
+# My name is Jordan Taylor
 
-**Software Developer** building projects to showcase my journey in becoming proficient.
+## Full-Stack Developer | React + Rails | UX/UI Background
 
-## About
-Currently building projects that combine modern web technologies with AI capabilities.
+I'm a full-stack developer specializing in building user-centered web applications with **React** and **Ruby on Rails**. With a background in UX/UI design and web development, I bring a unique perspective to crafting intuitive, functional interfaces.
 
-## Currently Working On
-- **ai-document-processing** — AI platform to analyze and chat with your contracts, invoices, and legal documents. Built with Python, Streamlit, and LangChain (RAG).
+## 🛠 Tech Stack
 
-## Working on after
-- **Multimodal AI Chat** — Building a chat application that handles text and image inputs using AI APIs
-- **secure-chat-app** — Signal/Discord hybrid, people chatting with people, privacy-focused (full stack, real-time)
+**Front-End:**
+- React
+- JavaScript (ES6+)
+- TypeScript
+- Tailwind CSS
+- HTML5
+- CSS3
 
-## Tech Stack
-- Frontend: React, JavaScript, TypeScript
-- Backend: Node.js, Python, SQL
-- Database: PostgreSQL, Supabase
-- Tools: Git, VS Code
+**Back-End:**
+- Ruby on Rails
+- Ruby
+- SQL
+- PostgreSQL
+- Supabase
+- Node.js
+
+**Tooling:**
+- Git & GitHub
+
+**UX/UI:**
+- Figma (UX/UI Design)
+
+## 🚀 Featured Projects
+
+**[Portfolio Site](https://your-portfolio-url.com)** - Rails
+Full-stack portfolio showcasing my work, built with Rails and Tailwind CSS.
+
+**AI Document Processor** *(In Progress)* - React + Rails
+Document analysis tool powered by AI APIs, featuring file upload and real-time processing.
+AI platform to analyze and chat with your contracts, invoices, and legal documents. Built with Python, Streamlit, and LangChain (RAG).
+
+**Secure Chat Application** *(In Progress)* - React + Rails
+Privacy-focused real-time chat with end-to-end encryption.
+Signal/Discord hybrid, people chatting with people, privacy-focused (full stack, real-time)
+
+**Multimodal AI Chat** *(In Progress)* - React + Rails
+Claude-like chat interface supporting text and image inputs.
+Building a chat application that handles text and image inputs using AI APIs
+
+### 🎯 Currently
+
+- 🔨 Building full-stack projects with React and Rails
+- 📚 Deepening expertise in AI integration and real-time web applications
+- 💼 Open to full-stack and front-end developer opportunities
 
 ## Background
-- BS in Web Design and Development.
-- Self-taught.
+- BS in Web Design and Development
+- Self-taught
 - UXUI —> Web Development —> Front End Engineering —> Full Stack Engineering
 
 ## Languages and Tools
@@ -32,8 +65,20 @@ Currently building projects that combine modern web technologies with AI capabil
 <!-- TypeScript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<!-- Ruby -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+
+<!-- Ruby on Rails -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/>
+
+<!-- SQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
+
+<!-- PostgreSQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+
+<!-- Tailwind CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
 
 <!-- Node.js -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
@@ -41,19 +86,13 @@ Currently building projects that combine modern web technologies with AI capabil
 <!-- Next.js -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 
-<!-- SvelteKit -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
-
-<!-- PostgreSQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-
 <!-- Supabase -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
 
 <!-- Git -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 
-<!-- GitHub -->
+<!-- GitHub (White/Light Version) -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 
 <!-- Linux -->
