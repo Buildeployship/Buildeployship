@@ -33,6 +33,8 @@ I'm a full-stack developer specializing in building user-centered web applicatio
 **[Ruby on Rails Portfolio]([https://your-portfolio-url.com](https://ruby-on-rails-buildeployship.onrender.com/))** - Rails
 Full-stack portfolio showcasing my work, built with Rails and Tailwind CSS.
 
+https://ruby-on-rails-buildeployship.onrender.com/
+
 **AI Document Processor** *(In Progress)* - React + Rails
 Document analysis tool powered by AI APIs, featuring file upload and real-time processing.
 AI platform to analyze and chat with your contracts, invoices, and legal documents. Built with Python, Streamlit, and LangChain (RAG).
