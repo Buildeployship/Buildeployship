@@ -1,22 +1,19 @@
-# My name is Jordan Taylor
+# Jordan Taylor
 
-## Full-Stack Developer | React + Rails | UX/UI Background
+## Full Stack Engineer | Front-End Specialization | React · JavaScript
 
-I'm a full-stack developer specializing in building user-centered web applications with **React** and **Ruby on Rails**. With a background in UX/UI design and web development, I bring a unique perspective to crafting intuitive, functional interfaces.
+I'm a full-stack developer specializing in building user-centered web applications with **React**. With a background in UX/UI design and web development, I bring a unique perspective to crafting intuitive, functional interfaces.
 
 ## 🛠 Tech Stack
 
 **Front-End:**
 - React
 - JavaScript (ES6+)
-- TypeScript
 - Tailwind CSS
 - HTML5
 - CSS3
 
 **Back-End:**
-- Ruby on Rails
-- Ruby
 - SQL
 - PostgreSQL
 - Supabase
@@ -30,7 +27,6 @@ I'm a full-stack developer specializing in building user-centered web applicatio
 
 ## 🚀 Featured Projects
 
-**[Ruby on Rails Portfolio]([https://your-portfolio-url.com](https://ruby-on-rails-buildeployship.onrender.com/))** - Rails
 Full-stack portfolio showcasing my work, built with Rails and Tailwind CSS.
 
 https://ruby-on-rails-buildeployship.onrender.com/
@@ -65,13 +61,13 @@ Building a chat application that handles text and image inputs using AI APIs
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 <!-- TypeScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> -->
 
 <!-- Ruby -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> -->
 
 <!-- Ruby on Rails -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> -->
 
 <!-- SQL -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
