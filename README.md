@@ -25,26 +25,23 @@ I'm a full-stack developer specializing in building user-centered web applicatio
 **UX/UI:**
 - Figma (UX/UI Design)
 
-## 🚀 Featured Projects
+<!-- **AI Document Processor** *(In Progress)* - React + Rails -->
+<!-- Document analysis tool powered by AI APIs, featuring file upload and real-time processing. -->
+<!-- AI platform to analyze and chat with your contracts, invoices, and legal documents. Built with Python, Streamlit, and LangChain (RAG). -->
 
-Full-stack portfolio showcasing my work, built with Rails and Tailwind CSS.
+<!-- **Secure Chat Application** *(In Progress)* - React + Rails -->
+<!-- Privacy-focused real-time chat with end-to-end encryption. -->
+<!-- Signal/Discord hybrid, people chatting with people, privacy-focused (full stack, real-time) -->
 
-https://ruby-on-rails-buildeployship.onrender.com/
+<!--**Multimodal AI Chat** *(In Progress)* - React + Rails> -->
+<!-- Claude-like chat interface supporting text and image inputs. -->
+<!-- Building a chat application that handles text and image inputs using AI APIs -->
 
-**AI Document Processor** *(In Progress)* - React + Rails
-Document analysis tool powered by AI APIs, featuring file upload and real-time processing.
-AI platform to analyze and chat with your contracts, invoices, and legal documents. Built with Python, Streamlit, and LangChain (RAG).
+## 🎯 Currently
 
-**Secure Chat Application** *(In Progress)* - React + Rails
-Privacy-focused real-time chat with end-to-end encryption.
-Signal/Discord hybrid, people chatting with people, privacy-focused (full stack, real-time)
-
-**Multimodal AI Chat** *(In Progress)* - React + Rails
-Claude-like chat interface supporting text and image inputs.
-Building a chat application that handles text and image inputs using AI APIs
-
-### 🎯 Currently
-
+- Full-stack portfolio showcasing my work, built with Rails and Tailwind CSS.
+-- https://ruby-on-rails-buildeployship.onrender.com/
+- Converting a past Webflow website portfolio to React + Supabase
 - 🔨 Building full-stack projects with React and Rails
 - 📚 Deepening expertise in AI integration and real-time web applications
 - 💼 Open to full-stack and front-end developer opportunities
