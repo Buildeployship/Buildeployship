@@ -1,8 +1,23 @@
 # Jordan Taylor
 
-## Full Stack Engineer | Front-End Specialization | React · JavaScript
+## Infrastructure Engineer | Cloud Solutions Architect| DevOps | SRE
 
-I'm a full-stack developer specializing in building user-centered web applications with **React**. With a background in UX/UI design and web development, I bring a unique perspective to crafting intuitive, functional interfaces.
+I'm building a career in datacenter infrastructure engineering, focused on physical systems, Linux administration, and infrastructure automation at scale.
+
+I operate a production-grade home lab where I design and deploy infrastructure that mirrors enterprise datacenter environments: Proxmox virtualization clusters, high-availability PostgreSQL databases, automated server provisioning, and structured cabling systems. This hands-on work provides practical experience in the same technologies and methodologies used in large-scale datacenter operations.
+
+My current skill development focuses on:
+Linux system administration (Debian GNU Linux, Arch, Ubuntu Server)
+Virtualization and containerization (Proxmox VE, KVM, Docker)
+Database administration (PostgreSQL, MySQL)
+Infrastructure automation (Ansible, Bash scripting)
+Physical infrastructure deployment (server hardware, rack systems, cable management)
+Storage systems and RAID configurations
+
+Actively pursuing RHCSA (Red Hat Certified System Administrator) certification, with plans to advance to CompTIA Server+ and AWS Solutions Architect certifications.
+
+I'm pursuing entry-level positions in datacenter infrastructure engineering, systems engineering, or datacenter operations where I can apply my practical lab experience while learning from experienced infrastructure professionals.
+I'm open to connecting with infrastructure engineers, datacenter professionals, and anyone building or operating systems at scale. I'd welcome the opportunity to learn from your experience in the field.
 
 ## 🛠 Tech Stack
 
