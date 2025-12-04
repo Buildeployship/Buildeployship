@@ -1,24 +1,27 @@
 # Jordan Taylor
 
-## Cloud Engineer | AWS | Linux | Terraform | IaC
+## Cloud Engineer | AWS | Python | Linux | Terraform | IaC
 
-Cloud Engineer specializing in AWS, Linux, and infrastructure as code.
-I build automated, repeatable infrastructure using Terraform, Bash, and Git. My foundation includes Linux system administration, networking fundamentals, and version-controlled workflows.
-Currently pursuing AWS certifications and expanding into containerization and CI/CD pipeline development.
-Seeking a Junior Cloud Engineer position where I can apply my technical foundation, contribute to production infrastructure, and grow alongside an experienced team.
+Certified technical project manager and engineer. Version-controlled workflows, Networking. Currently pursuing AWS certifications and expanding into containerization and CI/CD pipeline development, Python, Cloud Engineer specializing in AWS, Linux, and infrastructure as code. I build automated, repeatable infrastructure using Terraform, Bash, and Git. App development, and process architect.
+
+Highly value collaborative teams and cultures, with new challenges every day.
 
 ## 🛠 Tech Stack
 
 **Containerization:**
 - Docker
+
+**Orchestration:**
 - Kubernetes
 
 **Scripting and Automation:**
 - Bash
 - Python
 
+**Infrastructure as Code (IaC)**
+- Terraform
+
 **CI/CD Pipeline:**
-- Jenkins
 - GitHub Actions
 
 **Cloud Services:**
@@ -51,7 +54,7 @@ Seeking a Junior Cloud Engineer position where I can apply my technical foundati
 ## Background
 - BS in Web Design and Development
 - Self-taught
-- UXUI —> Webflow —> Front End Engineering —> Full Stack Engineering —> Back End Engineering —> Infrastructure / Cloud Engineering
+- UXUI —> Webflow —> Front End Engineering —> Full Stack Engineering —> Back End Engineering —> Cloud Engineering / Architect
 
 ## Languages and Tools
 <p align="left">
