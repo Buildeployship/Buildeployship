@@ -1,6 +1,6 @@
 # Jordan Taylor
 
-## Cloud Engineer | AWS | Bash | Python | Linux | Terraform | IaC | Docker | Kubernetes | TPM
+## Cloud Engineer | AWS | Bash | Python | Linux | Terraform | Docker | Kubernetes | TPM
 
 Certified technical project manager and engineer. version-controlled workflows, Networking. Currently pursuing AWS certifications and expanding into containerization and CI/CD pipeline development, Python, Cloud Engineer specializing in AWS, Linux, and infrastructure as code. I build automated, repeatable infrastructure using Terraform, Bash, and Git. App development, and process architect.
 
@@ -40,7 +40,7 @@ Highly value collaborative teams and cultures, with new challenges every day.
 ## Background
 - BS in Web Design and Development (sub-category within Computer Science)
 - Buildeployship (solopreneur) — Custom Web Development 
-- UXUI (Figma) > Webflow > Front End Engineering (React + Next.js) > Full Stack Engineering (React + Next.js) > Back End Engineering (APIs) > TPM & Cloud Engineering / Architect
+- UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect & TPM
 
 ## Languages and Tools
 <p align="left">
