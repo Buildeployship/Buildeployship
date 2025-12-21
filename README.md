@@ -44,6 +44,7 @@ Building scalable infrastructure through automation and continuous improvement
 - Networking & Security — VPC setups, security groups
 
 ## 🎓 Certifications
+- Google Project Management — LVQ9VQL6FG0L — _[Credential](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_
 - AWS Certified Cloud Practitioner (CLF-C02) — expected _expected January 2026_
 - AWS Certified Solutions Architect – Associate (SAA-C03) _expected January 2026_
 
@@ -85,4 +86,4 @@ Building scalable infrastructure through automation and continuous improvement
 </p>
 
 ## 📫 How to Contact Me
-- https://www.linkedin.com/in/buildeployship/
+🌐 [LinkedIn](https://www.linkedin.com/in/buildeployship/)
