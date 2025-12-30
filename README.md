@@ -2,7 +2,7 @@
 
 ## Cloud Engineer | AWS | Bash | Python | Linux | Terraform | Docker | Kubernetes | TPM
 
-Cloud Engineer and Certified Technical Project Manager with a background in app development and process architecture. Building automated, repeatable infrastructure using Terraform, Bash, and Git while advancing skills in version-controlled workflows, networking, containerization, CI/CD pipeline development, Python, and infrastructure as code.
+Cloud Engineer with a background in technical project management and web application architecture. Building automated, repeatable infrastructure on AWS using Terraform, Docker, Kubernetes, and CI/CD pipelines. Experienced in monitoring, networking, and infrastructure as code with a focus on scalable, version-controlled workflows.
 
 Building scalable infrastructure through automation and continuous improvement
 
