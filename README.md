@@ -6,7 +6,7 @@ Cloud Engineer with a background in technical project management and web applica
 
 Building scalable infrastructure through automation and continuous improvement
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Operating Systems:**
 - Linux
@@ -33,22 +33,22 @@ Building scalable infrastructure through automation and continuous improvement
 **Tooling:**
 - Git & GitHub
 
-<!-- ## 🚀 Featured Projects -->
+<!-- ## Featured Projects -->
 <!-- [2-3 pinned repos with one-liner descriptions of what each demonstrates] -->
 
-## 🏗️ Currently Working On
+## Currently Working On
 - Infrastructure as Code — Terraform scripts for VPC, subnets, security groups, EC2
 - Containerization — Dockerized apps, Kubernetes manifests
 - CI/CD Pipelines — GitHub Actions
 - Serverless — S3 + CloudFront static sites
 - Networking & Security — VPC setups, security groups
 
-## 🎓 Certifications
-- Google Project Management — LVQ9VQL6FG0L — _[Credential](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_
-- AWS Certified Cloud Practitioner (CLF-C02) — expected _expected January 2026_
-- AWS Certified Solutions Architect – Associate (SAA-C03) _expected January 2026_
+## Certifications
+- AWS Certified Cloud Practitioner (CLF-C02) _| expected 1/26_
+- AWS Certified Solutions Architect Associate (SAA-C03) _| expected 1/26_
+- Google Project Management Specialization (Google) _| [LVQ9VQL6FG0L](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_
 
-## 🧭 Background
+## Background
 - BS in Web Design and Development (sub-category within Computer Science)
 - Buildeployship — Custom Web Development 
 - UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect & TPM
@@ -85,5 +85,5 @@ Building scalable infrastructure through automation and continuous improvement
 
 </p>
 
-## 📫 How to Contact Me
-🌐 [LinkedIn](https://www.linkedin.com/in/buildeployship/)
+## How to Contact Me
+- [LinkedIn](https://www.linkedin.com/in/buildeployship/)
