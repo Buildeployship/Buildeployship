@@ -2,9 +2,9 @@
 
 ## Cloud Engineer | AWS | Terraform | Kubernetes | Docker | Python | Linux
 
-Cloud Engineer with a background in technical project management and web application architecture. Building automated, repeatable infrastructure on AWS using Terraform, Docker, Kubernetes, and CI/CD pipelines. Experienced in monitoring, networking, and infrastructure as code with a focus on scalable, version-controlled workflows.
+Cloud Engineer with a background in systems and web application architecture. Building automated, repeatable infrastructure on AWS using Terraform, Docker, Kubernetes, and CI/CD pipelines. Experienced in monitoring, networking, and infrastructure as code. Focused on scalable, version-controlled workflows.
 
-Building scalable infrastructure through automation and continuous improvement
+Building scalable cloud infrastructure through automation
 
 ## Tech Stack
 
