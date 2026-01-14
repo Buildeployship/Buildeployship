@@ -51,7 +51,7 @@ Building scalable cloud infrastructure through automation
 ## Background
 - BS in Web Design and Development (sub-category within Computer Science)
 - Buildeployship — Custom Web Development 
-- UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect & TPM
+- UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect
 
 ## Languages and Tools
 <p align="left">
