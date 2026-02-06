@@ -1,57 +1,36 @@
 # Jordan Taylor
 
-## Cloud Engineer | AWS | Terraform | Kubernetes | Docker | Python | Linux
+## DevOps Engineer | Cloud Infrastructure | CI/CD Automation
 
-Cloud Engineer with a background in systems and web application architecture. Building automated, repeatable infrastructure on AWS using Terraform, Docker, Kubernetes, and CI/CD pipelines. Experienced in monitoring, networking, and infrastructure as code. Focused on scalable, version-controlled workflows.
+DevOps Engineer. Automation, delivery, optimization. Building CI/CD pipelines, containerized environments, and observability systems using GitLab CI, Docker, Kubernetes, and Terraform.
 
-Building scalable cloud infrastructure through automation
+Automating delivery and infrastructure at scale
 
 ## Tech Stack
 
-**Operating Systems:**
-- Linux
+**Automation:** GitLab CI, GitHub Actions, Terraform, Ansible, Bash, Python, Git
 
-**Containerization:**
-- Docker
+**Delivery:** Docker, Kubernetes, Helm, Linux, AWS (EC2, ECS, ECR, Lambda, S3, ALB/ELB)
 
-**Orchestration:**
-- Kubernetes
+**Observability & Optimization:** Grafana, Prometheus, Loki, Mimir, CloudWatch
 
-**Scripting and Automation:**
-- Bash
-- Python
-
-**Infrastructure as Code (IaC)**
-- Terraform
-
-**CI/CD Pipeline:**
-- GitHub Actions
-
-**Cloud Services:**
-- AWS
-
-**Tooling:**
-- Git & GitHub
-
-<!-- ## Featured Projects -->
-<!-- [2-3 pinned repos with one-liner descriptions of what each demonstrates] -->
+## Featured Projects
+- Self-hosted CI/CD & Observability Stack
+- Self-hosted GitLab with GitHub Mirroring
 
 ## Currently Working On
-- Infrastructure as Code — Terraform scripts for VPC, subnets, security groups, EC2
+- CI/CD Pipelines — GitLab CI, GitHub Actions
 - Containerization — Dockerized apps, Kubernetes manifests
-- CI/CD Pipelines — GitHub Actions
-- Serverless — S3 + CloudFront static sites
-- Networking & Security — VPC setups, security groups
+- Infrastructure as Code — Terraform
+- Observability — Grafana, Prometheus, Loki
 
 ## Certifications
-- AWS Certified Cloud Practitioner (CLF-C02) _| expected 1/26_
-- AWS Certified Solutions Architect Associate (SAA-C03) _| expected 1/26_
 - Google Project Management Specialization (Google) _| [LVQ9VQL6FG0L](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_
 
-## Background
-- BS in Web Design and Development (sub-category within Computer Science)
-- Buildeployship — Custom Web Development 
-- UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect
+<!-- ## Background -->
+<!-- - BS in Web Design and Development (sub-category within Computer Science) -->
+<!-- - Buildeployship — Custom Web Development -->
+<!-- - UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect -->
 
 ## Languages and Tools
 <p align="left">
@@ -61,6 +40,9 @@ Building scalable cloud infrastructure through automation
 
 <!-- GitHub (White/Light Version) -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40">
+
+<!-- GitLab -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40">
 
 <!-- Linux -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
