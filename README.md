@@ -12,20 +12,19 @@ Automating delivery and infrastructure at scale
 
 **Delivery:** Docker, Kubernetes, Helm, Linux, AWS (EC2, ECS, ECR, Lambda, S3, ALB/ELB)
 
-**Observability & Optimization:** Grafana, Prometheus, Loki, Mimir, CloudWatch
+**Observability & Optimization:** Loki, Grafana, Tempo, Mimir, Prometheus, Alloy, node exporter, otel-collector, Garage, Alertmanager, CloudWatch, RCA, Deep troubleshooting
 
 ## Featured Projects
-- Self-hosted CI/CD & Observability Stack
-- Self-hosted GitLab with GitHub Mirroring
+- [Self-hosted CI/CD & Observability Stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
 
-## Currently Working On
-- CI/CD Pipelines — GitLab CI, GitHub Actions
-- Containerization — Dockerized apps, Kubernetes manifests
-- Infrastructure as Code — Terraform
-- Observability — Grafana, Prometheus, Loki
+<!-- ## Currently Working On -->
+<!-- - CI/CD Pipelines — GitLab CI, GitHub Actions -->
+<!-- - Containerization — Dockerized apps, Kubernetes manifests -->
+<!-- - Infrastructure as Code — Terraform -->
+<!-- - Observability — Grafana, Prometheus, Loki -->
 
-## Certifications
-- Google Project Management Specialization (Google) _| [LVQ9VQL6FG0L](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_
+<!-- ## Certifications -->
+<!-- - Google Project Management Specialization (Google) _| [LVQ9VQL6FG0L](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_ -->
 
 <!-- ## Background -->
 <!-- - BS in Web Design and Development (sub-category within Computer Science) -->
