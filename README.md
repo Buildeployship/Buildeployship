@@ -8,7 +8,7 @@ Automating delivery and infrastructure at scale
 
 ## Tech Stack
 
-**Automation:** GitLab CI, GitHub Actions, Terraform, Ansible, Bash, Python, Git
+**Automation:** GitLab CI, Terraform, Ansible, Bash, Python, Git
 
 **Delivery:** Docker, Kubernetes, Helm, Linux, AWS (EC2, ECS, ECR, Lambda, S3, ALB/ELB)
 
