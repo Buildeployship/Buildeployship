@@ -8,14 +8,14 @@ Automating delivery and infrastructure at scale
 
 ## Tech Stack
 
-**Automation:** GitLab CI, Terraform, Ansible, Bash, Python, Git
+**Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, YAML, TOML, Git
 
-**Delivery:** Docker, Kubernetes, Helm, Linux, AWS (EC2, ECS, ECR, Lambda, S3, ALB/ELB)
+**Delivery:** Docker, Kubernetes, Helm, Linux, AWS (EC2, S3, ALB/ELB)
 
-**Observability & Optimization:** Loki, Grafana, Tempo, Mimir, Prometheus, Alloy, node exporter, otel-collector, Garage, Alertmanager, CloudWatch, RCA, Deep troubleshooting
+**Operations:** Loki, Grafana, Tempo, Mimir, Alertmanager, Prometheus
 
 ## Featured Projects
-- [Self-hosted CI/CD & Observability Stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
+- [Self-hosted CI/CD Observability Stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
 
 <!-- ## Currently Working On -->
 <!-- - CI/CD Pipelines — GitLab CI, GitHub Actions -->
