@@ -2,7 +2,7 @@
 
 ## DevOps Engineer | Cloud Infrastructure | CI/CD Automation
 
-DevOps Engineer. Automation, delivery, optimization. Building CI/CD pipelines, containerized environments, and observability systems using GitLab CI, Docker, Kubernetes, and Terraform.
+Building production-grade CI/CD pipelines, containerized environments, and observability systems on bare-metal, self-hosted infrastructure. Designing secure, end-to-end automation, delivery, and monitoring architectures.
 
 Automating delivery and infrastructure at scale
 
