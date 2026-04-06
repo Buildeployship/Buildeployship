@@ -1,22 +1,33 @@
-# Jordan Taylor
+# Jordan Taylor | DevOps & Platform Engineer
 
-## DevOps Engineer | Cloud Infrastructure | CI/CD Automation
+DevOps & Platform Engineer building production-grade CI/CD pipelines, containerized environments, developer tooling, and infrastructure automation on self-hosted systems. Designing secure, end-to-end delivery architectures through hands-on implementation and continuous iteration across the LGTM stack. Building depth across infrastructure as code, GitOps workflows, and full-stack observability through a documented homelab and public portfolio. All work documented in GitLab and pushed publicly to GitHub — version-controlled, auditable, and built to demonstrate real operational competency.
 
-Building production-grade CI/CD pipelines, containerized environments, and observability systems on bare-metal, self-hosted infrastructure. Designing secure, end-to-end automation, delivery, and monitoring architectures.
-
-Automating delivery and infrastructure at scale
+<ul>
+  <li> CI/CD Pipeline Design & Automation
+  <li> Developer Tooling & Experience
+  <li> Infrastructure as Code
+  <li> Containerization & Orchestration
+  <li> GitOps & Version Control Workflows
+  <li> Infrastructure Architecture & Self-Hosted Systems
+  <li> Configuration Management
+  <li> Observability & Monitoring
+  <li> Service Mesh & Networking
+  <li> Secrets Management & Security
+  <li> Disaster Recovery & Backup Strategy
+  <li> Linux Systems Administration
+</ul>
 
 ## Tech Stack
 
 **Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, YAML, TOML, Git
 
-**Delivery:** Docker, Kubernetes, Helm, Linux, AWS (EC2, S3, ALB/ELB)
+**Delivery:** Docker, Docker Compose, Nomad, Linux, GitLab Container Registry, Cloudflare, Tailscale
 
-**Operations:** Loki, Grafana, Tempo, Mimir, Alertmanager, Prometheus
+**Observability:** Loki, Grafana, Tempo, Mimir, Alloy, Node exporter, Otel-collector, Alertmanager, Prometheus, Garage, Consul
 
 ## Featured Projects
-- [Self-hosted CI/CD Observability Stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
-
+- [self-hosted-cicd-observability-stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
+- [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
 <!-- ## Currently Working On -->
 <!-- - CI/CD Pipelines — GitLab CI, GitHub Actions -->
 <!-- - Containerization — Dockerized apps, Kubernetes manifests -->
@@ -50,13 +61,13 @@ Automating delivery and infrastructure at scale
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
 
 <!-- AWS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> -->
 
 <!-- Docker -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
 
 <!-- Kubernetes -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> -->
 
 <!-- Bash -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
