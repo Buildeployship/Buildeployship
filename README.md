@@ -7,7 +7,10 @@
 # Jordan Taylor | DevOps & Platform Engineer
 
 ## ABOUT
-DevOps & Platform Engineer building production-grade CI/CD pipelines, containerized environments, developer tooling, and infrastructure automation on self-hosted systems. Designing secure, end-to-end delivery architectures through hands-on implementation and continuous iteration across the LGTM stack. Building depth across infrastructure as code, GitOps workflows, and full-stack observability through a documented homelab and public portfolio. All work documented in GitLab and pushed publicly to GitHub — version-controlled, auditable, and built to demonstrate real operational competency.
+
+Building and maintaining hardened CI/CD, observability, and delivery infrastructure
+
+DevOps & Platform Engineer building and maintaining hardened CI/CD, containerized environments, observability, and delivery infrastructure on self-hosted systems. Refined through continuous iteration across the LGTM stack. Every component is automated, version-controlled, and pipelined in GitLab, pushed publicly to GitHub.
 
 ## PROJECTS
 
@@ -21,9 +24,9 @@ Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline
 
 ## SKILLS & EXPERTISE
 
-**Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, Go, YAML, TOML, Git
+**Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, YAML, TOML, Git
 
-**Delivery:** Docker, Docker Compose, Kubernetes, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), GitLab Container Registry, Cloudflare, Tailscale, Consul
+**Delivery:** Docker, Docker Compose, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), GitLab Container Registry, Cloudflare, Tailscale, Consul
 
 **Observability:** Loki, Grafana, Tempo, Mimir, Prometheus, OpenTelemetry, Alloy, Node exporter, Alertmanager, Otel-collector, Garage, CloudWatch
 
