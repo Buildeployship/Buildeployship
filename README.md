@@ -4,13 +4,19 @@
 [![Docker](https://img.shields.io/badge/Docker-multi--stage-2496ED?logo=docker&logoColor=white)](Dockerfile)
 [![AWS](https://img.shields.io/badge/AWS-ECS%20Fargate-FF9900?logo=amazonwebservices&logoColor=white)](terraform/)
 
-# Jordan Taylor | DevOps & Platform Engineer
+# Jordan Taylor
+
+Platform Engineer | CI/CD | Observability | Edge & Cloud Infrastructure
 
 ## ABOUT
 
-Building and maintaining hardened CI/CD, observability, and delivery infrastructure
+Building and maintaining hardened CI/CD across distributed and edge environments
 
-DevOps & Platform Engineer building and maintaining hardened CI/CD, containerized environments, observability, and delivery infrastructure on self-hosted systems. Refined through continuous iteration across the LGTM stack. Every component is automated, version-controlled, and pipelined in GitLab, pushed publicly to GitHub.
+Platform Engineer building developer-facing CI/CD, observability, and delivery infrastructure across self-hosted, cloud, and edge environments. LGTM stack observability, GitLab delivery, focused on ML/AI infrastructure. Every component is automated, version-controlled, and shipped publicly to GitHub.
+
+<!-- Building and maintaining hardened CI/CD, observability, and delivery infrastructure. -->
+
+<!-- DevOps & Platform Engineer building and maintaining hardened CI/CD, containerized environments, observability, and delivery infrastructure on self-hosted systems. Refined through continuous iteration across the LGTM stack. Every component is automated, version-controlled, and pipelined in GitLab, pushed publicly to GitHub. -->
 
 ## PROJECTS
 
@@ -33,6 +39,9 @@ Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline
 ## COMPETENCIES
 
 <ul>
+  <li> Edge Infrastructure Patterns
+  <li> Multi-Environment Deployment
+  <li> Platform Reliability Engineering
   <li> CI/CD Pipeline Design & Automation
   <li> Developer Tooling & Experience
   <li> Infrastructure as Code
