@@ -6,35 +6,29 @@
 
 # Jordan Taylor
 
-Platform Engineer | CI/CD | Observability | Edge & Cloud Infrastructure
+DevOps & Platform Engineer | CI/CD | Observability | Edge & Cloud Infrastructure
 
 ## ABOUT
 
-Building and maintaining hardened CI/CD across distributed and edge environments
+Building hardened CI/CD infrastructure across distributed and edge environments
 
-Platform Engineer building developer-facing CI/CD, observability, and delivery infrastructure across self-hosted, cloud, and edge environments. LGTM stack observability, GitLab delivery, focused on ML/AI infrastructure. Every component is automated, version-controlled, and shipped publicly to GitHub.
-
-<!-- Building and maintaining hardened CI/CD, observability, and delivery infrastructure. -->
-
-<!-- DevOps & Platform Engineer building and maintaining hardened CI/CD, containerized environments, observability, and delivery infrastructure on self-hosted systems. Refined through continuous iteration across the LGTM stack. Every component is automated, version-controlled, and pipelined in GitLab, pushed publicly to GitHub. -->
+DevOps & Platform Engineer building hardened CI/CD, observability, and delivery infrastructure across self-hosted systems, cloud, and edge environments. LGTM stack observability and GitLab delivery. Every component is automated, version-controlled, pipelined in GitLab, and shipped publicly to GitHub.
 
 ## PROJECTS
 
 ### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
-A Go webhook relay through full CI/CD, service mesh, LGTM observability, and live AWS deployment
-<!-- Go service instrumented with OpenTelemetry, deployed via multi-stage GitLab CI/CD with full trace/metric/log correlation -->
+A Go webhook relay through multi-stage GitLab CI/CD with LGTM observability, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
 
 ### [self-hosted-cicd-observability-stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
-Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline and full observability stack running on Arch Linux
-<!-- Self-hosted DevOps platform: GitLab CE, LGTM observability, Nomad orchestration, Tailscale networking -->
+Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
 
 ## SKILLS & EXPERTISE
 
-**Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, YAML, TOML, Git
+**Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, Go, YAML, TOML, Git
 
-**Delivery:** Docker, Docker Compose, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), GitLab Container Registry, Cloudflare, Tailscale, Consul
+**Delivery:** Docker, Docker Compose, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), GitLab Container Registry, Consul, Tailscale, Cloudflare
 
-**Observability:** Loki, Grafana, Tempo, Mimir, Prometheus, OpenTelemetry, Alloy, Node exporter, Alertmanager, Otel-collector, Garage, CloudWatch
+**Observability:** CloudWatch, Loki, Grafana, Tempo, Mimir, Alloy, Node exporter, Otel-collector, Alertmanager, Prometheus, Garage, OpenTelemetry
 
 ## COMPETENCIES
 
@@ -55,53 +49,6 @@ Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline
   <li> Disaster Recovery & Backup Strategy
   <li> Linux Systems Administration
 </ul>
-
-<!-- ## Projects
-
-### go-cicd-observability
-[go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
-
-### self-hosted-cicd-observability-stack
-[self-hosted-cicd-observability-stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack) -->
-
-<!-- ## Currently Working On -->
-<!-- - CI/CD Pipelines — GitLab CI, GitHub Actions -->
-<!-- - Containerization — Dockerized apps, Kubernetes manifests -->
-<!-- - Infrastructure as Code — Terraform -->
-<!-- - Observability — Grafana, Prometheus, Loki -->
-
-<!-- ## Certifications -->
-<!-- - Google Project Management Specialization (Google) _| [LVQ9VQL6FG0L](https://www.coursera.org/account/accomplishments/specialization/LVQ9VQL6FG0L)_ -->
-
-<!-- ## Background -->
-<!-- - BS in Web Design and Development (sub-category within Computer Science) -->
-<!-- - Buildeployship — Custom Web Development -->
-<!-- - UXUI > Webflow > Front End Engineering > Full Stack Engineering > Back End Engineering > Cloud Engineering / Architect -->
-
-<!-- ## Languages and Tools -->
-
-<!-- <p align="left">
-<!-- Git -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> -->
-<!-- GitHub -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> -->
-<!-- GitLab -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> -->
-<!-- Linux -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> -->
-<!-- Python -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> -->
-<!-- AWS -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> -->
-<!-- Docker -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> -->
-<!-- Kubernetes -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> -->
-<!-- Bash -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> -->
-<!-- Terraform -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> -->
-<!-- </p> -->
 
 ## CONTACT
 - [LinkedIn](https://www.linkedin.com/in/buildeployship/)
