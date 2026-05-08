@@ -6,7 +6,7 @@
 
 # Jordan Taylor
 
-DevOps | Platform | Security Engineer
+DevOps & Platform Engineer
 
 ## ABOUT
 
