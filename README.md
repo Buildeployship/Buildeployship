@@ -6,7 +6,7 @@
 
 # Jordan Taylor
 
-DevOps & Platform Engineer | CI/CD | Observability | Edge & Cloud Infrastructure
+DevOps | Platform | Security Engineer
 
 ## ABOUT
 
