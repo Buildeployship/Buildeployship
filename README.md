@@ -10,30 +10,70 @@ DevOps & Platform Engineer
 
 ## ABOUT
 
-Building hardened CI/CD infrastructure across distributed and edge environments
+DevOps & Platform Engineer building hardened CI/CD, observability, and delivery infrastructure across on-premise and cloud environments. Observability built on the Grafana LGTM stack — Loki, Grafana, Tempo, and Mimir. Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
 
-DevOps & Platform Engineer building hardened CI/CD, observability, and delivery infrastructure across self-hosted systems, cloud, and edge environments. LGTM stack observability and GitLab delivery. Every component is automated, version-controlled, pipelined in GitLab, and shipped publicly to GitHub.
+## Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ cicd-observability-stack                                            │
+│                                                                     │
+│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
+│  │  GitLab CE  │───▶│  GitLab Runner   │───▶│  Loki · Grafana │   │
+│  │  Registry   │     │  Docker executor │     │  Tempo · Mimir  │   │
+│  └─────────────┘     └──────────────────┘     │  Alloy · OTel   │   │
+│                                               └────────┬────────┘   │
+└────────────────────────────────────────────────────────│────────────┘
+                                                         │ observes
+┌────────────────────────────────────────────────────────│────────────┐
+│ go-cicd-observability                                  │            │
+│                                                        ▼            │
+│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
+│  │ Go webhook  │───▶│   GitLab CI/CD   │───▶│ Nomad · Consul  │   │
+│  │ relay · OTel│     │   6 stages       │  ╔══│ mTLS  · homelab │   │
+│  └─────────────┘     └──────────────────┘  ║  └─────────────────┘   │
+│                                            ║                        │
+│                                            ╚══▶┌─────────────────┐ │
+│                                                 │ AWS ECS Fargate │ │
+│                                                 │ Terraform · ALB │ │
+│                                                 └─────────────────┘ │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ## PROJECTS
 
 ### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
-A Go webhook relay through multi-stage GitLab CI/CD with LGTM observability, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
+**Description**:
+A Go webhook relay through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
+<br>
 
-### [self-hosted-cicd-observability-stack](https://github.com/Buildeployship/self-hosted-cicd-observability-stack)
-Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
+**Technologies**:
+Go · GitLab CI/CD · Terraform · AWS ECS Fargate · Nomad · OTel
+<br>
+
+
+### [cicd-observability-stack](https://github.com/Buildeployship/cicd-observability-stack)
+**Description**:
+Infrastructure-as-code and documentation for a on-premise GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
+<br>
+
+**Technologies**:
+GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
+<br>
 
 ## SKILLS & EXPERTISE
 
-**Automation:** GitLab CI/CD, GitHub Actions, Terraform, Ansible, Bash, Python, Go, YAML, TOML, Git
+**Domains:** Networking, Security, Secrets management, Incident response, Infrastructure as Code
 
-**Delivery:** Docker, Docker Compose, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), GitLab Container Registry, Consul, Tailscale, Cloudflare
+**Automation:** CI/CD tooling (GitLab CI, GitHub Actions), Git, Terraform, Ansible, Bash, Go
 
-**Observability:** CloudWatch, Loki, Grafana, Tempo, Mimir, Alloy, Node exporter, Otel-collector, Alertmanager, Prometheus, Garage, OpenTelemetry
+**Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), Consul, Tailscale, Cloudflare
+
+**Observability:** CloudWatch, Loki, Grafana, Tempo, Mimir, Node exporter, Otel-collector, Alertmanager, Prometheus, OpenTelemetry
 
 ## COMPETENCIES
 
 <ul>
-  <li> Edge Infrastructure Patterns
   <li> Multi-Environment Deployment
   <li> Platform Reliability Engineering
   <li> CI/CD Pipeline Design & Automation
@@ -41,11 +81,10 @@ Infrastructure-as-code and documentation for a self-hosted GitLab CI/CD pipeline
   <li> Infrastructure as Code
   <li> Containerization & Orchestration
   <li> GitOps & Version Control Workflows
-  <li> Infrastructure Architecture & Self-Hosted Systems
+  <li> Infrastructure Architecture & Networking
   <li> Configuration Management
   <li> Observability & Monitoring
-  <li> Service Mesh & Networking
-  <li> Secrets Management & Security
+  <li> Security & Secrets Management
   <li> Disaster Recovery & Backup Strategy
   <li> Linux Systems Administration
 </ul>
