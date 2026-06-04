@@ -12,55 +12,6 @@ DevOps Engineer with hands-on experience designing, building, and operating infr
 
 My on-premise infrastructure runs: GitLab CE, the Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Nomad orchestration, and AWS-integrated pipelines. Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
 
-## Architecture
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│ cicd-observability-stack                                            │
-│                                                                     │
-│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
-│  │  GitLab CE  │───▶│  GitLab Runner   │───▶│  Loki · Grafana │   │
-│  │  Registry   │     │  Docker executor │     │  Tempo · Mimir  │   │
-│  └─────────────┘     └──────────────────┘     │  Alloy · OTel   │   │
-│                                               └────────┬────────┘   │
-└────────────────────────────────────────────────────────│────────────┘
-                                                         │ observes
-┌────────────────────────────────────────────────────────│────────────┐
-│ go-cicd-observability                                  │            │
-│                                                        ▼            │
-│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
-│  │ Go webhook  │───▶│   GitLab CI/CD   │───▶│ Nomad · Consul  │   │
-│  │ relay · OTel│     │   6 stages       │  ╔══│ mTLS  · homelab │   │
-│  └─────────────┘     └──────────────────┘  ║  └─────────────────┘   │
-│                                            ║                        │
-│                                            ╚══▶┌─────────────────┐ │
-│                                                 │ AWS ECS Fargate │ │
-│                                                 │ Terraform · ALB │ │
-│                                                 └─────────────────┘ │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-## PROJECTS
-
-### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
-**Description**:
-A Go webhook relay through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
-<br>
-
-**Technologies**:
-Go · GitLab CI/CD · Terraform · AWS ECS Fargate · Nomad · OTel
-<br>
-
-
-### [cicd-observability-stack](https://github.com/Buildeployship/cicd-observability-stack)
-**Description**:
-Infrastructure-as-code and documentation for a on-premise GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
-<br>
-
-**Technologies**:
-GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
-<br>
-
 ## SKILLS & EXPERTISE
 
 **Domains & Methodologies:** Infrastructure as Code (IaC), CI/CD, GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Disaster Recovery (DR), Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil
@@ -107,6 +58,56 @@ GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
       <li> Secrets Management & Credential Rotation
       <li> Disaster Recovery & Backup Strategy
     </ul>
+</ul>
+
+## PROJECTS
+
+### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
+**Description**:
+A Go webhook relay through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
+<br>
+
+**Technologies**:
+Go · GitLab CI/CD · Terraform · AWS ECS Fargate · Nomad · OTel
+<br>
+
+
+### [cicd-observability-stack](https://github.com/Buildeployship/cicd-observability-stack)
+**Description**:
+Infrastructure-as-code and documentation for a on-premise GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
+<br>
+
+**Technologies**:
+GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
+<br>
+
+## Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│ cicd-observability-stack                                            │
+│                                                                     │
+│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
+│  │  GitLab CE  │───▶│  GitLab Runner   │───▶│  Loki · Grafana │   │
+│  │  Registry   │     │  Docker executor │     │  Tempo · Mimir  │   │
+│  └─────────────┘     └──────────────────┘     │  Alloy · OTel   │   │
+│                                               └────────┬────────┘   │
+└────────────────────────────────────────────────────────│────────────┘
+                                                         │ observes
+┌────────────────────────────────────────────────────────│────────────┐
+│ go-cicd-observability                                  │            │
+│                                                        ▼            │
+│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐   │
+│  │ Go webhook  │───▶│   GitLab CI/CD   │───▶│ Nomad · Consul  │   │
+│  │ relay · OTel│     │   6 stages       │  ╔══│ mTLS  · homelab │   │
+│  └─────────────┘     └──────────────────┘  ║  └─────────────────┘   │
+│                                            ║                        │
+│                                            ╚══▶┌─────────────────┐ │
+│                                                 │ AWS ECS Fargate │ │
+│                                                 │ Terraform · ALB │ │
+│                                                 └─────────────────┘ │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ## CONTACT
 - [LinkedIn](https://www.linkedin.com/in/buildeployship/)
