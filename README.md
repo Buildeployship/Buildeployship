@@ -6,11 +6,11 @@
 
 # Jordan Taylor
 
-DevOps & Platform Engineer
-
 ## ABOUT
 
-DevOps & Platform Engineer building hardened CI/CD, observability, and delivery infrastructure across on-premise and cloud environments. Observability built on the Grafana LGTM stack — Loki, Grafana, Tempo, and Mimir. Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
+DevOps Engineer with hands-on experience designing, building, and operating infrastructure across on-premise and cloud environments. I work across the full stack — Linux systems, networking, continuous integration and continuous delivery (CI/CD) pipelines, monitoring & observability and delivery infrastructure with a security-first approach throughout.
+
+My on-premise infrastructure runs: GitLab CE, the Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Nomad orchestration, and AWS-integrated pipelines. Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
 
 ## Architecture
 
@@ -63,31 +63,51 @@ GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
 
 ## SKILLS & EXPERTISE
 
-**Domains:** Networking, Security, Secrets management, Incident response, Infrastructure as Code
+**Domains & Methodologies:** Infrastructure as Code (IaC), CI/CD, GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Disaster Recovery (DR), Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil
 
-**Automation:** CI/CD tooling (GitLab CI, GitHub Actions), Git, Terraform, Ansible, Bash, Go
+**Security:** IAM/Least-Privilege Policy Design, Container/Image Scanning, CIS (Center for Internet Security) Benchmarks, Secrets Management
 
-**Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB), Consul, Tailscale, Cloudflare
+**Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, SOPS, AWS Secrets Manager, Trivy
 
-**Observability:** CloudWatch, Loki, Grafana, Tempo, Mimir, Node exporter, Otel-collector, Alertmanager, Prometheus, OpenTelemetry
+**Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render, HashiCorp Vault
+
+**Observability:** CloudWatch, LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry, Otel-Collector
 
 ## COMPETENCIES
 
 <ul>
-  <li> Multi-Environment Deployment
-  <li> Platform Reliability Engineering
-  <li> CI/CD Pipeline Design & Automation
-  <li> Developer Tooling & Experience
-  <li> Infrastructure as Code
-  <li> Containerization & Orchestration
-  <li> GitOps & Version Control Workflows
-  <li> Infrastructure Architecture & Networking
-  <li> Configuration Management
-  <li> Observability & Monitoring
-  <li> Security & Secrets Management
-  <li> Disaster Recovery & Backup Strategy
-  <li> Linux Systems Administration
-</ul>
+  <li> Infrastructure
+    <ul>
+      <li> Storage Architecture & Data Management
+      <li> Network Segmentation & Traffic Control
+      <li> High Availability & Fault Tolerance
+      <li> Infrastructure Architecture & Networking
+      <li> Linux Systems Administration
+    </ul>
+  <li> Platform & orchestration
+    <ul>
+      <li> Multi-Environment Deployment
+      <li> Containerization & Orchestration
+      <li> Service Mesh & Internal DNS
+      <li> Configuration Management
+      <li> Infrastructure as Code
+    </ul>
+  <li> Delivery & automation
+    <ul>
+      <li> CI/CD Pipeline Design & Automation
+      <li> GitOps & Version Control Workflows
+      <li> Developer Tooling & Process Engineering
+    </ul>
+  <li> Operations
+    <ul>
+      <li> Platform Reliability Engineering
+      <li> Observability & Monitoring
+      <li> Capacity Planning & Resource Optimization
+      <li> Threat Detection & Incident Response
+      <li> Secrets Management & Credential Rotation
+      <li> Disaster Recovery & Backup Strategy
+    </ul>
 
 ## CONTACT
 - [LinkedIn](https://www.linkedin.com/in/buildeployship/)
+- [X](https://x.com/buildeployship)
