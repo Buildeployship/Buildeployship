@@ -8,13 +8,13 @@
 
 ## ABOUT
 
-DevOps Engineer with hands-on experience designing, building, and operating infrastructure across on-premise and cloud environments. I work across the full stack — Linux systems, networking, continuous integration and continuous delivery (CI/CD) pipelines, monitoring & observability and delivery infrastructure with a security-first approach throughout.
+Systems and Security thinking applied to DevOps Engineering. Hands-on experience designing, building, and operating infrastructure across on-premise and cloud environments.
 
-My on-premise infrastructure runs: GitLab CE, the Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Nomad orchestration, and AWS-integrated pipelines. Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
+Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
 
 ## SKILLS & EXPERTISE
 
-**Domains & Methodologies:** Infrastructure as Code (IaC), CI/CD, GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Disaster Recovery (DR), Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil
+**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Disaster Recovery (DR), Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil
 
 **Security:** IAM/Least-Privilege Policy Design, Container/Image Scanning, CIS (Center for Internet Security) Benchmarks, Secrets Management
 
@@ -22,7 +22,7 @@ My on-premise infrastructure runs: GitLab CE, the Grafana LGTM stack (Loki, Graf
 
 **Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render, HashiCorp Vault
 
-**Observability:** CloudWatch, LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry, Otel-Collector
+**Observability:** CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry, OpenTelemetry Collector
 
 ## COMPETENCIES
 
@@ -111,4 +111,4 @@ GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
 
 ## CONTACT
 - [LinkedIn](https://www.linkedin.com/in/buildeployship/)
-- [X](https://x.com/buildeployship)
+<!-- - [X](https://x.com/buildeployship) -->
