@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-Systems and Security thinking applied to DevOps Engineering. Hands-on experience designing, building, and operating infrastructure across on-premise and cloud environments.
+DevOps Engineer applying systems/security engineering to the DevOps domain. Hands-on experience designing, building, and operating infrastructure across on-premises and cloud environments.
 
 Every component is automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
 
