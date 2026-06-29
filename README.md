@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-DevOps Engineer applying systems/security engineering to the DevOps domain. Hands-on experience designing, building, and operating infrastructure across on-premises and cloud environments. Every component is secured, automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
+DevOps Engineer applying systems/security engineering to the DevOps domain. Hands-on experience designing, building, and operating infrastructure across on-premises and cloud environments. Every component is secured, automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
 
 ## SKILLS & EXPERTISE
 
