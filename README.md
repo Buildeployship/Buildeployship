@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-DevOps Engineer applying systems/security engineering to the DevOps domain. Hands-on experience designing, building, and operating infrastructure across on-premises and cloud environments. Every component is secured, automated, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
+I apply systems and security engineering to the DevOps domain. I design, build, and operate in production — on-premises and cloud. Terraform-provisioned, scheduled on Nomad with Consul Connect mTLS, pipelined through GitLab CI/CD, and instrumented end-to-end with OpenTelemetry and the Grafana LGTM stack. Every component is secured, automated, version-controlled, and shipped publicly on GitHub. Currently extending the same substrate to model-serving and ML-lifecycle workloads. Available for defined-scope infrastructure work — full-time or contract.
 
 ## SKILLS & EXPERTISE
 
