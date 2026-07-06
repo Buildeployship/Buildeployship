@@ -8,19 +8,21 @@
 
 ## ABOUT
 
-I apply systems and security engineering to the DevOps domain. I design, build, and operate in production — on-premises and cloud. Terraform-provisioned, scheduled on Nomad with Consul Connect mTLS, pipelined through GitLab CI/CD, and instrumented end-to-end with OpenTelemetry and the Grafana LGTM stack. Every component is secured, automated, version-controlled, and shipped publicly on GitHub. Currently extending the same substrate to model-serving and ML-lifecycle workloads. Available for defined-scope infrastructure work — full-time or contract.
+DevOps Engineer applying systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. All projects are secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
+
+## CONTACT
+[LinkedIn](https://www.linkedin.com/in/buildeployship/)
+<!-- - [X](https://x.com/buildeployship) -->
 
 ## SKILLS & EXPERTISE
 
-**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Disaster Recovery (DR), Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil
+**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry
 
-**Security:** IAM/Least-Privilege Policy Design, Container/Image Scanning, CIS (Center for Internet Security) Benchmarks, Secrets Management
+**Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Python, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning
 
-**Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, SOPS, AWS Secrets Manager, Trivy
+**Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render
 
-**Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render, HashiCorp Vault
-
-**Observability:** CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry, OpenTelemetry Collector
+**Observability:** CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry Collector
 
 ## COMPETENCIES
 
@@ -35,9 +37,9 @@ I apply systems and security engineering to the DevOps domain. I design, build, 
     </ul>
   <li> Platform & orchestration
     <ul>
-      <li> Multi-Environment Deployment
+      <!-- <li> Multi-Environment Deployment -->
       <li> Containerization & Orchestration
-      <li> Service Mesh & Internal DNS
+      <!-- <li> Service Mesh & Internal DNS -->
       <li> Configuration Management
       <li> Infrastructure as Code
     </ul>
@@ -52,9 +54,9 @@ I apply systems and security engineering to the DevOps domain. I design, build, 
       <li> Platform Reliability Engineering
       <li> Observability & Monitoring
       <li> Capacity Planning & Resource Optimization
-      <li> Threat Detection & Incident Response
-      <li> Secrets Management & Credential Rotation
-      <li> Disaster Recovery & Backup Strategy
+      <!-- <li> Threat Detection & Incident Response -->
+      <!-- <li> Secrets Management & Credential Rotation -->
+      <!-- <li> Disaster Recovery & Backup Strategy -->
     </ul>
 </ul>
 
@@ -69,10 +71,9 @@ A Go webhook relay through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-
 Go · GitLab CI/CD · Terraform · AWS ECS Fargate · Nomad · OTel
 <br>
 
-
 ### [cicd-observability-stack](https://github.com/Buildeployship/cicd-observability-stack)
 **Description**:
-Infrastructure-as-code and documentation for a on-premise GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
+Infrastructure-as-code and documentation for an on-premises GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
 <br>
 
 **Technologies**:
@@ -106,7 +107,3 @@ GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
 │                                                 └─────────────────┘ │
 └─────────────────────────────────────────────────────────────────────┘
 ```
-
-## CONTACT
-- [LinkedIn](https://www.linkedin.com/in/buildeployship/)
-<!-- - [X](https://x.com/buildeployship) -->
