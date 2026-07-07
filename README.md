@@ -18,7 +18,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 **Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry, Secrets Management
 
-**Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, Python, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning
+**Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning
 
 **Delivery:** Docker, Nomad, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render
 
@@ -64,7 +64,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 ### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
 **Description**:
-A Go webhook relay through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
+A Go relay app through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
 <br>
 
 **Technologies**:
