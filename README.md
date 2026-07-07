@@ -16,7 +16,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 ## SKILLS & EXPERTISE
 
-**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry, Secrets Management
+**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premises Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry, Secrets Management
 
 **Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning
 
@@ -64,7 +64,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 ### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
 **Description**:
-A Go relay app through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, service mesh, and live AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
+A Go webhook relay app through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, Consul Connect mutual-TLS service mesh, and AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
 <br>
 
 **Technologies**:
@@ -73,7 +73,7 @@ Go · GitLab CI/CD · Terraform · AWS ECS Fargate · Nomad · OTel
 
 ### [cicd-observability-stack](https://github.com/Buildeployship/cicd-observability-stack)
 **Description**:
-Infrastructure-as-code and documentation for an on-premises GitLab CI/CD pipeline, LGTM observability stack, Nomad orchestration, and Tailscale networking on Arch Linux.
+Infrastructure-as-code and documentation for an on-premises GitLab CI/CD pipeline, Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, Nomad orchestration, and Tailscale networking on Linux.
 <br>
 
 **Technologies**:
