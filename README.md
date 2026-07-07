@@ -16,11 +16,11 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 ## SKILLS & EXPERTISE
 
-**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry
+**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premise Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry, Secrets Management
 
 **Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, Python, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning
 
-**Delivery:** Docker, Nomad, Linux, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render
+**Delivery:** Docker, Nomad, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale, Cloudflare, Render
 
 **Observability:** CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry Collector
 
