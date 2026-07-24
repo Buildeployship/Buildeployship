@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-DevOps Engineer applying systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. All projects are secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
+Platform Engineer applying systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. All projects are secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
 
 ## CONTACT
 [LinkedIn](https://www.linkedin.com/in/buildeployship/)
@@ -16,7 +16,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 ## SKILLS & EXPERTISE
 
-**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premises Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry, Secrets Management
+**Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), DevOps, GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premises Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Observability-Driven Development, Automation of Toil, OpenTelemetry, Secrets Management
 
 **Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning
 
