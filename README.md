@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-Platform Engineer applying systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. All projects are secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
+DevSecOps, Cloud, and Platform Engineer applying systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. Projects are secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
 
 ## CONTACT
 [LinkedIn](https://www.linkedin.com/in/buildeployship/)
@@ -20,7 +20,7 @@ Platform Engineer applying systems and security engineering to Automation, Deliv
 
 **Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning, HashiCorp Vault, SOPS/age
 
-**Delivery:** Docker, Nomad, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale
+**Delivery:** Docker, Kubernetes, Nomad, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale
 
 **Observability:** AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry Collector, Grafana Alloy
 
