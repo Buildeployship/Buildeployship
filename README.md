@@ -24,42 +24,6 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 **Observability:** AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Grafana Alloy, Alertmanager, Prometheus, OpenTelemetry Collector, Node exporter, Consul Connect mutual-TLS service mesh
 
-<!-- ## COMPETENCIES
-
-<ul>
-  <li> Infrastructure
-    <ul>
-      <li> Storage Architecture & Data Management
-      <li> Network Segmentation & Traffic Control
-      <li> High Availability & Fault Tolerance
-      <li> Infrastructure Architecture & Networking
-      <li> Linux Systems Administration
-    </ul>
-  <li> Platform & orchestration
-    <ul>
-      <!-- <li> Multi-Environment Deployment -->
-      <li> Containerization & Orchestration
-      <!-- <li> Service Mesh & Internal DNS -->
-      <li> Configuration Management
-      <li> Infrastructure as Code
-    </ul>
-  <!-- <li> Delivery & automation -->
-    <!-- <ul> -->
-      <li> CI/CD Pipeline Design & Automation
-      <li> GitOps & Version Control Workflows
-      <li> Developer Tooling & Process Engineering
-    </ul>
-  <!-- <li> Operations -->
-    <ul>
-      <li> Platform Reliability Engineering
-      <li> Observability & Monitoring
-      <li> Capacity Planning & Resource Optimization
-      <!-- <li> Threat Detection & Incident Response -->
-      <!-- <li> Secrets Management & Credential Rotation -->
-      <!-- <li> Disaster Recovery & Backup Strategy -->
-    </ul>
-<!-- </ul> --> -->
-
 ## PROJECTS
 
 ### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
