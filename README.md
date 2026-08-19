@@ -24,7 +24,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 **Observability:** AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Grafana Alloy, Alertmanager, Prometheus, OpenTelemetry Collector, Node exporter, Consul Connect mutual-TLS service mesh
 
-## COMPETENCIES
+<!-- ## COMPETENCIES
 
 <ul>
   <li> Infrastructure
@@ -58,7 +58,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
       <!-- <li> Secrets Management & Credential Rotation -->
       <!-- <li> Disaster Recovery & Backup Strategy -->
     </ul>
-</ul>
+</ul> -->
 
 ## PROJECTS
 
