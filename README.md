@@ -43,13 +43,13 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
       <li> Configuration Management
       <li> Infrastructure as Code
     </ul>
-  <li> Delivery & automation
-    <ul>
+  <!-- <li> Delivery & automation -->
+    <!-- <ul> -->
       <li> CI/CD Pipeline Design & Automation
       <li> GitOps & Version Control Workflows
       <li> Developer Tooling & Process Engineering
     </ul>
-  <li> Operations
+  <!-- <li> Operations -->
     <ul>
       <li> Platform Reliability Engineering
       <li> Observability & Monitoring
@@ -58,7 +58,7 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
       <!-- <li> Secrets Management & Credential Rotation -->
       <!-- <li> Disaster Recovery & Backup Strategy -->
     </ul>
-</ul> -->
+<!-- </ul> --> -->
 
 ## PROJECTS
 
