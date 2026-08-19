@@ -18,11 +18,11 @@ DevOps Engineer applying systems and security engineering to Automation, Deliver
 
 **Domains & Methodologies:** Infrastructure as Code (IaC), Continuous Integration and Continuous Delivery (CI/CD), DevOps, GitOps, Configuration Management, Distributed Systems, Storage, Container Orchestration, Linux, Networking, On-premises Infrastructure, Security Hardening, High Availability (HA), Fault Tolerance, Service Discovery, Load Balancing, Horizontal Scaling, SLO/SLI Definition, Reliability Engineering, Secrets Management
 
-**Automation:** GitLab CI, GitHub Actions, Git, Terraform, Bash, Go, AWS Secrets Manager, Trivy, IAM/Least-Privilege Policy Design, Container/Image Scanning, HashiCorp Vault, SOPS/age
+**Automation:** GitLab CI/CD, GitHub Actions, Git, Terraform, Bash, Go, Python, Ansible, Claude, GitHub Copilot
 
-**Delivery:** Docker, Kubernetes, Nomad, AWS (IAM, EC2, S3, ECS, ECR, ALB/ELB, Fargate), Consul Connect mutual-TLS service mesh, Tailscale
+**Delivery:** Linux, Docker, Kubernetes (K8s, Helm, ArgoCD), Consul, Nomad, AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB, VPC, Fargate), AWS Secrets Manager, Tailscale, Cloudflare, Render, HashiCorp Vault, SOPS/age, Trivy, govulncheck, PostgreSQL, SQL
 
-**Observability:** AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Node exporter, Alertmanager, Prometheus, OpenTelemetry Collector, Grafana Alloy
+**Observability:** AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir), Grafana Alloy, Alertmanager, Prometheus, OpenTelemetry Collector, Node exporter, Consul Connect mutual-TLS service mesh
 
 ## COMPETENCIES
 
