@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-DevOps Engineer applying systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. Projects are secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. Available for defined-scope infrastructure work — full-time or contract.
+I design, build, operate, and apply systems and security engineering to automation, delivery, and observability across on-premises and cloud environment infrastructure.
 
 ## CONTACT
 [LinkedIn](https://www.linkedin.com/in/buildeployship/)
