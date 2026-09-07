@@ -8,7 +8,7 @@
 
 ## ABOUT
 
-I design, build, operate, and apply systems and security engineering to automation, delivery, and observability across on-premises and cloud environment infrastructure.
+Technical Project Manager & DevOps Engineer. In DevOps I apply systems and security engineering to Automation, Delivery, and Observability. I design, build, and operate across on-premises and cloud environment infrastructure. DevOps projects are scoped, tracked, secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub. In project management I've led crews, subcontractors, and vendors across concurrent sites, driving alignment across dependencies while owning schedules, compliance, and cost reporting to ownership. Available for defined-scope delivery and infrastructure work — contract, contract-to-hire, or full-time.
 
 ## CONTACT
 [LinkedIn](https://www.linkedin.com/in/buildeployship/)
