@@ -19,7 +19,7 @@ I design, build, and operate across on-premises and cloud environment infrastruc
 
 In project management I've led crews, subcontractors, and vendors across concurrent sites, driving alignment across dependencies while owning schedules, compliance, and cost reporting to ownership.
 
-Technical project delivery, with focus on security and compliance. PMP certification in progress. Contract, contract-to-hire, or full-time.
+Technical project delivery, with focus on security and compliance. Contract, contract-to-hire, or full-time.
 
 ## DEVOPS PROJECTS
 
