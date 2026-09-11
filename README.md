@@ -8,6 +8,7 @@
 ![PMP](https://img.shields.io/badge/PMP-In%20Progress-informational?style=flat&logo=trello&logoColor=white)
 
 ## CONTACT
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buildeployship/)
 
 ## SUMMARY
@@ -18,7 +19,7 @@ I design, build, and operate across on-premises and cloud environment infrastruc
 
 In project management I've led crews, subcontractors, and vendors across concurrent sites, driving alignment across dependencies while owning schedules, compliance, and cost reporting to ownership.
 
-Technical project delivery, with focus on security and compliance. PMP in progress. Contract, contract-to-hire, or full-time.
+Technical project delivery, with focus on security and compliance. PMP certification in progress. Contract, contract-to-hire, or full-time.
 
 ## DEVOPS PROJECTS
 
