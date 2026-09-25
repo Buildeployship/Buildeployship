@@ -1,10 +1,19 @@
 # Jordan Taylor
 
-[![GitHub Actions](https://github.com/Buildeployship/go-cicd-observability/actions/workflows/ci.yml/badge.svg)](https://github.com/Buildeployship/go-cicd-observability/actions)
 [![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-6%20stages-FC6D26?logo=gitlab&logoColor=white)](.gitlab-ci.yml)
-[![Terraform](https://img.shields.io/badge/Terraform-1.14+-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![GitHub Actions](https://github.com/Buildeployship/go-cicd-observability/actions/workflows/ci.yml/badge.svg)](https://github.com/Buildeployship/go-cicd-observability/actions)
 [![Docker](https://img.shields.io/badge/Docker-multi--stage-2496ED?logo=docker&logoColor=white)](Dockerfile)
-[![AWS](https://img.shields.io/badge/AWS-ECS%20Fargate-FF9900?logo=amazonwebservices&logoColor=white)](terraform/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-1.14+-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS-ECS%20·%20Fargate%20·%20ECR%20·%20EC2%20·%20S3%20·%20IAM%20·%20VPC%20·%20ALB%2FELB%20·%20Secrets%20Manager%20·%20CloudWatch-FF9900?logo=amazonwebservices&logoColor=white)](aws/)
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?logo=vault&logoColor=black)](https://developer.hashicorp.com/vault)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)](https://tailscale.com/)
+[![Grafana LGTM](https://img.shields.io/badge/Grafana-LGTM%20Stack-F46800?logo=grafana&logoColor=white)](https://grafana.com/oss/)
 ![PMP](https://img.shields.io/badge/PMP-In%20Progress-informational?style=flat&logo=trello&logoColor=white)
 
 ## CONTACT
@@ -13,36 +22,21 @@
 
 ## SUMMARY
 
-Technical Project Manager with hands-on infrastructure and security engineering background. In DevOps I apply systems and security engineering to Automation, Delivery, and Observability.
+DevOps engineer with hands-on infrastructure and security engineering across on-premises and cloud environments. Automates delivery through multi-stage CI/CD pipelines and infrastructure as code, shipping containerized services instrumented for observability across metrics, logs, and traces.
 
-I design, build, and operate across on-premises and cloud environment infrastructure. DevOps projects are scoped, tracked, secured, version-controlled, pipelined through GitLab CI/CD, and shipped publicly on GitHub.
-
-In project management I've led crews, subcontractors, and vendors across concurrent sites, driving alignment across dependencies while owning schedules, compliance, and cost reporting to ownership.
-
-Technical project delivery, with focus on security and compliance. Contract, contract-to-hire, or full-time.
-
-## DEVOPS PROJECTS
+## PROJECTS
 
 ### [go-cicd-observability](https://github.com/Buildeployship/go-cicd-observability)
-**Description**:
-A Go webhook relay app through multi-stage GitLab CI/CD with Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, Consul Connect mutual-TLS service mesh, and AWS deployment. Instrumented end-to-end with OpenTelemetry for trace, metric, and log correlation.
-<br>
+Go webhook relay delivered through a multi-stage pipeline to on-premises and AWS targets.
 
-**Technologies**:
-Go · GitLab CI/CD · Terraform · AWS ECS Fargate · Nomad · OTel
-<br>
+`Go` `GitLab CI/CD` `Terraform` `AWS ECS Fargate` `Nomad` `OTel`
 
 ### [cicd-observability-stack](https://github.com/Buildeployship/cicd-observability-stack)
-**Description**:
-Infrastructure-as-code and documentation for an on-premises GitLab CI/CD pipeline, Grafana's Loki-Grafana-Tempo-Mimir (LGTM) observability stack, Nomad orchestration, and Tailscale networking on Linux.
-<br>
+On-premises CI/CD and observability platform, with full architecture and operating documentation.
 
-**Technologies**:
-GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
-<br>
+`GitLab CI/CD` `Docker Compose` `LGTM` `Nomad` `Consul` `Tailscale`
 
-**Architecture**:
-
+**Architecture:**
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │ cicd-observability-stack                                            │
@@ -69,10 +63,12 @@ GitLab CE · Docker Compose · LGTM · Nomad · Consul · Tailscale
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-## TECHNICAL SKILLS & EXPERTISE
+## TECHNICAL SKILLS
 
-**Technical:** Linux, Docker, Kubernetes (K8s, Helm, ArgoCD, EKS), AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB, VPC, Fargate), AWS Secrets Manager, Tailscale, Cloudflare, HashiCorp Vault, Trivy, GitLab CI/CD, GitHub Actions, Git, Terraform, Bash, AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir)
+**Automation:** GitLab CI/CD, GitHub Actions, Git, Terraform, Ansible, Bash, Go, Python
 
-**Delivery Methodologies & Frameworks:** Agile (Scrum, Kanban), Waterfall, Hybrid, DevSecOps, Risk Management, Scope & Budget Management, Root Cause Analysis (RCA), Critical Path Method (CPM), Lean Six Sigma (DMAIC), OKRs, ITIL, RAID logs, RACI
+**Delivery:** Linux, Docker, Kubernetes (Helm, ArgoCD, EKS), AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB, VPC, Fargate), Consul, Nomad, Tailscale
 
-**Tooling:** Jira, Azure DevOps, ServiceNow, Confluence, SharePoint, Microsoft 365, Slack, Lucidchart, Figma, ClickUp, Linear, Asana, Trello, Monday.com, Notion, Google Workspace, MS Teams, draw.io
+**Observability:** OpenTelemetry, AWS CloudWatch, Grafana LGTM stack (Loki, Grafana, Tempo, Mimir)
+
+**Security:** HashiCorp Vault, AWS Secrets Manager, SOPS, Trivy, Consul Connect (mTLS)
