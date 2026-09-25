@@ -65,7 +65,7 @@ On-premises CI/CD and observability platform, with full architecture and operati
 
 ## TECHNICAL SKILLS
 
-**Automation:** GitLab CI/CD, GitHub Actions, Git, Terraform, Ansible, Bash, Go, Python
+**Automation:** GitLab CI/CD, GitHub Actions, Git, Terraform, Ansible, Bash, Python
 
 **Delivery:** Linux, Docker, Kubernetes (Helm, ArgoCD, EKS), AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB, VPC, Fargate), Consul, Nomad, Tailscale
 
