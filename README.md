@@ -8,8 +8,6 @@
 [![AWS](https://img.shields.io/badge/AWS-ECS%20·%20Fargate%20·%20ECR%20·%20EC2%20·%20S3%20·%20IAM%20·%20VPC%20·%20ALB%2FELB%20·%20Secrets%20Manager%20·%20CloudWatch-FF9900?logo=amazonwebservices&logoColor=white)](aws/)
 [![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?logo=vault&logoColor=black)](https://developer.hashicorp.com/vault)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white)](https://tailscale.com/)
@@ -65,7 +63,7 @@ On-premises CI/CD and observability platform, with full architecture and operati
 
 ## TECHNICAL SKILLS
 
-**Automation:** GitLab CI/CD, GitHub Actions, Git, Terraform, Ansible, Bash, Python
+**Automation:** GitLab CI/CD, GitHub Actions, Git, Terraform, Bash
 
 **Delivery:** Linux, Docker, Kubernetes (Helm, ArgoCD, EKS), AWS (IAM, EC2, ECS, ECR, S3, ALB/ELB, VPC, Fargate), Consul, Nomad, Tailscale
 
