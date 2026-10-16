@@ -8,7 +8,7 @@ I build delivery platforms end to end: the pipeline, the infrastructure it deplo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buildeployship/)
 
 ## [Explore my homelab](https://github.com/Buildeployship/homelab)
-The architecture, design decisions, and a guided path through every project.
+The service topology and every project, end to end.
 
 ## Technical Skills
 
